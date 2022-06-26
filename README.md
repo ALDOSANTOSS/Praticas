@@ -1,2 +1,2 @@
 # Praticas
-Praticas
+Praticas diarias
