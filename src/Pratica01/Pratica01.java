@@ -11,7 +11,6 @@ public class Pratica01 {
         int valor02 = sc.nextInt();
         int valor03 = valor01 + valor02;
         System.out.println("Resultado " + valor03);
-        
 
     }
 }
