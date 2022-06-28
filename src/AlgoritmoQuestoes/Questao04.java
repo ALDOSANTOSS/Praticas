@@ -10,8 +10,13 @@ public class Questao04 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int valor = sc.nextInt();
-        int resulado = valor - 1;
-        System.out.println(resulado);
+        int num, ant, suc;
+        num = sc.nextInt();
+        ant = num - 1;
+        suc = num + 1;
+        System.out.println("O antecessor : " + ant + " O Sucessor : " + suc);
+
+
+
     }
 }
